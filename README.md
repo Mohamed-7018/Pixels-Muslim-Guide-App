@@ -1,7 +1,7 @@
 
 Muslim Guide App     |  Muslim Guide App
 :-------------------------:|:-------------------------:
- ![Screenshot_1636289117](https://user-images.githubusercontent.com/80456446/140644822-ba0f887b-47c8-47d9-9f1f-738b68f1e39c.png) |  ![Screenshot_1636289117](https://user-images.githubusercontent.com/80456446/140648528-7008c93a-fcf9-4758-b338-ede7b69f6f34.png)
+![Screenshot_1640664210](https://user-images.githubusercontent.com/80456446/147528129-0fca1e0a-e410-4f1b-9952-e937dd95787b.png) |  ![Screenshot_1640664219](https://user-images.githubusercontent.com/80456446/147529125-c93dfcdd-3703-4fb9-b549-2a55da882def.png)
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/80456446/140644822-ba0f887b-47c8-47d9-9f1f-738b68f1e39c.png" width=250></p>|<p align="center"><img src="https://user-images.githubusercontent.com/80456446/140648528-7008c93a-fcf9-4758-b338-ede7b69f6f34.png" width=250></p>
  -->
 
@@ -44,7 +44,7 @@ Maybe the app idea is not compoletely new, and many repos build like these apps 
 
 Screenshot              |  Screenshot
 :-------------------------:|:-------------------------:
- ![Screenshot_1636289117](https://user-images.githubusercontent.com/80456446/140645470-62e5c6d5-4b9a-4836-8959-3916ddfbd6a3.png) | ![Screenshot_1636289123](https://user-images.githubusercontent.com/80456446/140645507-8cb1d32e-2afe-4ab5-ae1d-1260953afc5c.png)
+![Screenshot_1640664210](https://user-images.githubusercontent.com/80456446/147528129-0fca1e0a-e410-4f1b-9952-e937dd95787b.png) |  ![Screenshot_1640664219](https://user-images.githubusercontent.com/80456446/147529125-c93dfcdd-3703-4fb9-b549-2a55da882def.png)
 
 
 ## Quraan App
