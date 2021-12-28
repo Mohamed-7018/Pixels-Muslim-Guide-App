@@ -143,7 +143,7 @@ This is the version of my app, and it will not be the last and many comming vers
 - islamic lessons and articles
 <br/>
   <h3 align="center" >
-  <a href="https://drive.google.com/drive/folders/1b_KbBO8K3FYP4Q9wK1Ma-QpmoNOWAqGC?usp=sharing">
+  <a href="https://drive.google.com/drive/folders/1sYR8_ryATQjfsZHILFdQuIJpyTz8m9g9?usp=sharing">
  <img src="https://user-images.githubusercontent.com/80456446/140654179-eca56dba-e3a6-4076-8625-de71d8a3a249.png" height="60"
          alt="Get it on Android">
  </a>
@@ -174,7 +174,7 @@ The app is built for allah so don't stop it, please share the app and don't forg
       <td align="center">
 <!-- <br/> -->
   <h3 align="center" >
-  <a href="https://drive.google.com/drive/folders/1b_KbBO8K3FYP4Q9wK1Ma-QpmoNOWAqGC?usp=sharing">
+  <a href="https://drive.google.com/drive/folders/1sYR8_ryATQjfsZHILFdQuIJpyTz8m9g9?usp=sharing">
  <img src="https://user-images.githubusercontent.com/80456446/140654179-eca56dba-e3a6-4076-8625-de71d8a3a249.png" height="60"
          alt="Get it on Android">
  </a>
@@ -196,56 +196,60 @@ The app is built for allah so don't stop it, please share the app and don't forg
 
 
   <br/>  <br/>
+  
+  
+  
+
+## Pixels App 
+![187960930_3955292401216930_6844533153445761662_n](https://user-images.githubusercontent.com/80456446/124113684-00392400-da6c-11eb-8779-cea0193eefb6.jpg)
+
+“Pixels Egypt” mobile app is considered an important and easy way to stay in touch with us.
+
+The app will help you to:
+
+- Browse different online courses and resources in different fields like Computer, Communication, Power, and Mechanical Engineering.
+- You will find courses, videos, books and more.
+- Follow our news.
+- Share our knowledge.
+- Be one of the family.
+
+Get it now on Google Play:
+
+https://play.google.com/store/apps/details
+
+
+## Follow Pixels:
+
+- Facebook:
+
+https://www.facebook.com/PixelsEgyptOrg
+
+- YouTube:
+
+https://www.youtube.com/c/PixelsEgypt
+
+- Instagram:
+
+https://www.instagram.com/pixelsegypt/
+
+- Twitter:
+
+https://twitter.com/pixelsegypt?lang=en
+
+
+
+
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Very important note<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
  Some of the packages used in the project are old so some edit will e needed. Like (Screen package). The reason why some fixes will be needed in the packages because these package are old and the publishers didn't suppoet them anumore. Don't feel shame to ask me if you face any problem with editing packages. You will find my contacts below or in my guthub overview.
 
-  <br/>  <br/>
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> Updating the app<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
-  </h1>
-This is the first version of the app and the app is still under development, so any body notice a bug or have an idea to update the app and make it more useful for more nuber of dtudents pleease contack me and these are my contacts:
-
- <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />Reach me at<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
- <br/>
-  <br/>
-<a href="https://www.facebook.com/mohamed.almasri.5686/">
-  <img align="left" alt="Mohamed-7018 | Fcebook" width="24px" src="https://github.com/Mohamed-7018/Mohamed-7018/blob/main/assets/facebook.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamed-samir-9b0b2a203">
-  <img align="left" alt="Mohamed-7018 | LinkedIn" width="24px" src="https://github.com/Mohamed-7018/Mohamed-7018/blob/main/assets/linkedin.svg"/>
-</a>
-<a href="mailto:mohamedkhalilalmasri@gmail.com">
-  <img align="left" alt="Mohamed-7018 Esawy | Gmail" width="24px" src="https://user-images.githubusercontent.com/80456446/140469108-1a340307-b696-4f83-bd31-27f632bca393.png" />
-</a>
-<a href="https://www.hackerrank.com/mohamedkhalilal1">
- <img align="left" alt="HackerRank" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"/>
-</a>
-<a href="https://www.instagram.com/mohamed_samir_7018/">
- <img align="left" alt="HackerRank" width="34px" src="https://user-images.githubusercontent.com/80456446/140470099-0233261b-373f-43f3-80e4-6be8ff9c9438.png"/>
-</a>
-
-<br/>
-<br/>
-
-
-
-
 
 <br/>
 
 
   <br/>  <br/>
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />  Just follow☝️ me and Star⭐ my repository<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
-  </h1>
-Make star to my repo and following me in github and different Social Media would help me to continue.
 
-![1_TcdcC2gXNwtnLzsp6GXe1g](https://user-images.githubusercontent.com/80456446/134283879-11c9a3ae-65e4-416e-b3e6-dd8137b991e8.png)
-
-
-  <br/>  <br/>
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  /> License & Accesability<img src="https://user-images.githubusercontent.com/80456446/140647786-f3cc8d5e-2dc2-4ad0-8200-d36f39061763.gif" width="50" height="30"  />
   </h1>
