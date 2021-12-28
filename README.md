@@ -22,7 +22,7 @@ Muslim Guide App
 Mslim guide app is the app that help the muslims in their dialy habits like reading Quraan, Azkar elmoslem (Morning/Night/After Praying/Sleeping), Sebha, praying time and ElQibla direction (any place all over the world) .
 <br/></br></br>
   <h3 align="center" >
-  <a href="https://drive.google.com/drive/folders/1b_KbBO8K3FYP4Q9wK1Ma-QpmoNOWAqGC?usp=sharing">
+  <a href="https://drive.google.com/drive/folders/1sYR8_ryATQjfsZHILFdQuIJpyTz8m9g9?usp=sharing">
  <img src="https://user-images.githubusercontent.com/80456446/140654179-eca56dba-e3a6-4076-8625-de71d8a3a249.png" height="60"
          alt="Get it on Android">
  </a>
@@ -110,9 +110,8 @@ Light Mode Screenshot              | Light Mode Screenshot
 :-------------------------:|:-------------------------:
 ![Screenshot_1636293774](https://user-images.githubusercontent.com/80456446/140648347-97b46a52-91ae-48a1-b318-907062fd045e.png)|![Screenshot_1636293783](https://user-images.githubusercontent.com/80456446/140648348-42fe7b27-da41-4fac-8531-95a81f3b28c8.png)
 
-Light Mode Screenshot               |  Light Mode Screenshot
-:-------------------------:|:-------------------------:
-![Screenshot_1636293788](https://user-images.githubusercontent.com/80456446/140648350-8e6479a9-f94c-4762-b6fd-a7e01efc9c45.png)|![Screenshot_1636293728](https://user-images.githubusercontent.com/80456446/140648351-885165ae-401e-447f-96e8-a39797bcbe36.png)
+Light Mode Screenshot        
+![Screenshot_1636293788](https://user-images.githubusercontent.com/80456446/140648350-8e6479a9-f94c-4762-b6fd-a7e01efc9c45.png)
 
 
 Light Mode Screenshot               |  Light Mode Screenshot
@@ -270,6 +269,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
   </h1>
 
 ![74797-thank-you-with-confetti](https://user-images.githubusercontent.com/80456446/140656223-3b3f6572-6551-49d7-ae96-8b9e1e940791.gif)
+
+
+
+
 
 
 
